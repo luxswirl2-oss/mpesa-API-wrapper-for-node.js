@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Adams MPesa SDK for Node.js
+# MPesa SDK for Node.js
 
 ### Modern, Production-Ready MPesa API Integration for Node.js & TypeScript
 
@@ -21,18 +21,18 @@
 
 ## 📖 Description
 
-**Adams MPesa SDK** is a comprehensive, developer-friendly Node.js library for integrating Safaricom's MPesa Daraja API into your applications. Built with TypeScript and designed for production use, it provides a clean, intuitive interface for all MPesa payment operations.
+**MPesa SDK** is a comprehensive, developer-friendly Node.js library for integrating Safaricom's MPesa Daraja API into your applications. Built with TypeScript and designed for production use, it provides a clean, intuitive interface for all MPesa payment operations.
 
 Whether you're building an e-commerce platform, a SaaS application, or a mobile money service in Kenya, this SDK handles the complexity of MPesa integration so you can focus on building your product.
 
 ### Why Choose This SDK?
 
-- ✅ **Type-Safe**: Full TypeScript support with comprehensive type definitions
-- ✅ **Production-Ready**: Robust error handling, automatic retries, and token caching
-- ✅ **Developer-Friendly**: Clean API, extensive documentation, and working examples
-- ✅ **Well-Tested**: 49 passing unit tests with comprehensive coverage
-- ✅ **Modern**: Uses latest Node.js features and best practices
-- ✅ **Zero Config**: Sensible defaults that work out of the box
+-  **Type-Safe**: Full TypeScript support with comprehensive type definitions
+- **Production-Ready**: Robust error handling, automatic retries, and token caching
+- **Developer-Friendly**: Clean API, extensive documentation, and working examples
+- **Well-Tested**: 49 passing unit tests with comprehensive coverage
+ **Modern**: Uses latest Node.js features and best practices
+ **Zero Config**: Sensible defaults that work out of the box
 
 ---
 
